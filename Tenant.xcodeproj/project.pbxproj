@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		58F27FC51E398A48003F3A91 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58F27FC41E398A48003F3A91 /* main.cpp */; };
+		58F27FD11E398F5D003F3A91 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 58F27FD01E398F5D003F3A91 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		58F27FC11E398A48003F3A91 /* Tenant */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Tenant; sourceTree = BUILT_PRODUCTS_DIR; };
 		58F27FC41E398A48003F3A91 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		58F27FCF1E398F5D003F3A91 /* Date.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Date.h; sourceTree = "<group>"; };
+		58F27FD01E398F5D003F3A91 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +44,7 @@
 		58F27FB81E398A47003F3A91 = {
 			isa = PBXGroup;
 			children = (
+				58F27FCE1E398F5D003F3A91 /* Date */,
 				58F27FC31E398A48003F3A91 /* Tenant */,
 				58F27FC21E398A48003F3A91 /* Products */,
 			);
@@ -60,6 +64,16 @@
 				58F27FC41E398A48003F3A91 /* main.cpp */,
 			);
 			path = Tenant;
+			sourceTree = "<group>";
+		};
+		58F27FCE1E398F5D003F3A91 /* Date */ = {
+			isa = PBXGroup;
+			children = (
+				58F27FCF1E398F5D003F3A91 /* Date.h */,
+				58F27FD01E398F5D003F3A91 /* README.md */,
+			);
+			name = Date;
+			path = Tenant/Date;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,6 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				58F27FD11E398F5D003F3A91 /* README.md in Sources */,
 				58F27FC51E398A48003F3A91 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3FA45214505DCC09169A60CB1A4261BB9AD4FC0C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3FA45214505DCC09169A60CB1A4261BB9AD4FC0C" : 9223372036854775807,
+    "ADB2AF575876CBE84B9FEE10B39E180F9109EC21" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "874D0F7E-AB99-4CC8-9D66-FEC8DF37C86B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3FA45214505DCC09169A60CB1A4261BB9AD4FC0C" : "Tenant\/",
+    "ADB2AF575876CBE84B9FEE10B39E180F9109EC21" : "Tenant\/Tenant\/Date\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tenant",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tenant.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/github.com\/shelleydogra\/Tenant.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3FA45214505DCC09169A60CB1A4261BB9AD4FC0C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shelleydogra\/Date.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ADB2AF575876CBE84B9FEE10B39E180F9109EC21"
+    }
+  ]
+}
